@@ -45,7 +45,7 @@ To run this project, you need:
 
 ## Screenshots
 
-![Password Generator Screenshot](images/output-screenshot.png)
+![Password Generator Screenshot](images/output_screenshot.png)
 
 ## Contributing
 
